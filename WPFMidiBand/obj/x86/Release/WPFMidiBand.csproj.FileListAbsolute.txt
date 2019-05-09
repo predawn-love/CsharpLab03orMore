@@ -87,3 +87,92 @@ D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Release\WPFMidiBand.csproj
 D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Release\WPFMidiBand.exe
 D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Release\WPFMidiBand.pdb
 D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Release\WPFMidiBand.csprojAssemblyReference.cache
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Images\BassDrum.png
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Images\DrumSet.png
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Images\FloorTom.png
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Images\Guitar.png
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Images\guitar_icon.png
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Images\HiHat.png
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Images\HiHatFixed.png
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Images\HiHatTop.png
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Images\RideCymbal.png
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Images\SnareDrum.png
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Images\Tom1.png
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Images\Tom2.png
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Beat It.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Billy Jean.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Bizarre Love Triangle.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Black Dog.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Black Mountain Side.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Blitzkrieg_Bop.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Blue Monday 2.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Blue Monday.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Ceremony.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Close To Me.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Dancing_Queen.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\dont stop believing.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Enter Sandman.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Friday Im In Love.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Helter Skelter.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Higher Ground.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\How Many More Times.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Iron Man.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\I_Wanna_Be_Sedated.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Kashmir.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Lullaby.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Manic Depression.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Moby Dick.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\NothingElseMatters.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Paranoid.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Perfect Kiss.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Poker Face.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Rock And Roll.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\SadButTrue.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Seven Nation Army.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Smoke On The Water.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Stairway To Heaven.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Sunday Bloody Sunday.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Sweet Child O Mine.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\The Lemon Song.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Thriller.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\Under Pressure.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\We Will Rock Youwwry.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\With Or Without You.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Midis\World.mid
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\WPFMidiBand.exe.config
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\WPFMidiBand.exe
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\WPFMidiBand.pdb
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Sanford.Collections.dll
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Sanford.Multimedia.dll
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Sanford.Multimedia.Midi.WPF.dll
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Sanford.Multimedia.Timers.dll
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\bin\Release\Sanford.Threading.dll
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\WPFMidiBand.csprojAssemblyReference.cache
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\Controls\BassControl.baml
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\Controls\DrumControl.baml
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\Controls\GuitarControl.baml
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\Controls\PianoKeyWPF.baml
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\Controls\UserControl1.baml
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\Controls\BassControl.g.cs
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\Controls\DrumControl.g.cs
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\Controls\GuitarControl.g.cs
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\Controls\PianoControlWPF.g.cs
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\Controls\PianoKeyWPF.g.cs
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\Controls\UserControl1.g.cs
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\MainWindow.g.cs
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\Window1.g.cs
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\App.g.cs
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\WPFMidiBand_Content.g.cs
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\WPFMidiBand_MarkupCompile.cache
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\WPFMidiBand_MarkupCompile.lref
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\Controls\PianoControlWPF.baml
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\MainWindow.baml
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\Window1.baml
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\WPFMidiBand.g.resources
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\WPFMidiBand.Properties.Resources.resources
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\WPFMidiBand.csproj.GenerateResource.cache
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\WPFMidiBand.csproj.CoreCompileInputs.cache
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\WPFMidiBand.csproj.CopyComplete
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\WPFMidiBand.exe
+D:\CodeSum\CsharpCode\TheThirdLAB02\WPFMidiBand\obj\x86\Release\WPFMidiBand.pdb

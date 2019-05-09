@@ -1,0 +1,178 @@
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\BassDrum.png
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\DrumSet.png
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\FloorTom.png
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\Guitar.png
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\guitar_icon.png
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\HiHat.png
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\HiHatFixed.png
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\HiHatTop.png
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\RideCymbal.png
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\SnareDrum.png
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\Tom1.png
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Images\Tom2.png
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Beat It.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Billy Jean.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Bizarre Love Triangle.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Black Dog.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Black Mountain Side.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Blitzkrieg_Bop.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Blue Monday 2.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Blue Monday.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Ceremony.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Close To Me.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Dancing_Queen.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\dont stop believing.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Enter Sandman.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Friday Im In Love.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Helter Skelter.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Higher Ground.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\How Many More Times.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Iron Man.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\I_Wanna_Be_Sedated.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Kashmir.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Lullaby.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Manic Depression.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Moby Dick.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\NothingElseMatters.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Paranoid.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Perfect Kiss.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Poker Face.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Rock And Roll.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\SadButTrue.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Seven Nation Army.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Smoke On The Water.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Stairway To Heaven.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Sunday Bloody Sunday.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Sweet Child O Mine.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\The Lemon Song.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Thriller.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\Under Pressure.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\We Will Rock Youwwry.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\With Or Without You.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Midis\World.mid
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\WPFMidiBand.exe.config
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\WPFMidiBand.exe
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\WPFMidiBand.pdb
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Sanford.Collections.dll
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Sanford.Multimedia.dll
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Sanford.Multimedia.Midi.WPF.dll
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Sanford.Multimedia.Timers.dll
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\bin\Debug\Sanford.Threading.dll
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand.csprojAssemblyReference.cache
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\BassControl.baml
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\DrumControl.baml
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\GuitarControl.baml
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\PianoKeyWPF.baml
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\UserControl1.baml
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\BassControl.g.cs
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\DrumControl.g.cs
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\GuitarControl.g.cs
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\PianoControlWPF.g.cs
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\PianoKeyWPF.g.cs
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\UserControl1.g.cs
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\MainWindow.g.cs
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Window1.g.cs
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\App.g.cs
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand_Content.g.cs
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand_MarkupCompile.cache
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand_MarkupCompile.lref
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Controls\PianoControlWPF.baml
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\MainWindow.baml
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\Window1.baml
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand.g.resources
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand.Properties.Resources.resources
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand.csproj.GenerateResource.cache
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand.csproj.CoreCompileInputs.cache
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand.csproj.CopyComplete
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand.exe
+D:\学习资料\C#\4月11号下载的资源\LAB\实验3\WPFMidiBand_SRC\WPFMidiBand\obj\x86\Debug\WPFMidiBand.pdb
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Images\BassDrum.png
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Images\DrumSet.png
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Images\FloorTom.png
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Images\Guitar.png
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Images\guitar_icon.png
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Images\HiHat.png
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Images\HiHatFixed.png
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Images\HiHatTop.png
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Images\RideCymbal.png
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Images\SnareDrum.png
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Images\Tom1.png
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Images\Tom2.png
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Beat It.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Billy Jean.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Bizarre Love Triangle.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Black Dog.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Black Mountain Side.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Blitzkrieg_Bop.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Blue Monday 2.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Blue Monday.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Ceremony.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Close To Me.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Dancing_Queen.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\dont stop believing.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Enter Sandman.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Friday Im In Love.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Helter Skelter.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Higher Ground.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\How Many More Times.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Iron Man.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\I_Wanna_Be_Sedated.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Kashmir.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Lullaby.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Manic Depression.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Moby Dick.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\NothingElseMatters.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Paranoid.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Perfect Kiss.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Poker Face.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Rock And Roll.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\SadButTrue.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Seven Nation Army.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Smoke On The Water.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Stairway To Heaven.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Sunday Bloody Sunday.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Sweet Child O Mine.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\The Lemon Song.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Thriller.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\Under Pressure.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\We Will Rock Youwwry.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\With Or Without You.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Midis\World.mid
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\WPFMidiBand.exe.config
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\WPFMidiBand.exe
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\WPFMidiBand.pdb
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Sanford.Collections.dll
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Sanford.Multimedia.dll
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Sanford.Multimedia.Midi.WPF.dll
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Sanford.Multimedia.Timers.dll
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\bin\Debug\Sanford.Threading.dll
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\WPFMidiBand.csprojAssemblyReference.cache
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\Controls\BassControl.baml
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\Controls\DrumControl.baml
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\Controls\GuitarControl.baml
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\Controls\PianoKeyWPF.baml
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\Controls\UserControl1.baml
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\Controls\BassControl.g.cs
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\Controls\DrumControl.g.cs
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\Controls\GuitarControl.g.cs
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\Controls\PianoControlWPF.g.cs
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\Controls\PianoKeyWPF.g.cs
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\Controls\UserControl1.g.cs
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\MainWindow.g.cs
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\Window1.g.cs
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\App.g.cs
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\WPFMidiBand_Content.g.cs
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\WPFMidiBand_MarkupCompile.cache
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\WPFMidiBand_MarkupCompile.lref
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\Controls\PianoControlWPF.baml
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\MainWindow.baml
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\Window1.baml
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\WPFMidiBand.g.resources
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\WPFMidiBand.Properties.Resources.resources
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\WPFMidiBand.csproj.GenerateResource.cache
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\WPFMidiBand.csproj.CoreCompileInputs.cache
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\WPFMidiBand.csproj.CopyComplete
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\WPFMidiBand.exe
+D:\CodeSum\CsharpCode\TheThirdLAB\WPFMidiBand\obj\x86\Debug\WPFMidiBand.pdb
